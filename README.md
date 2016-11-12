@@ -31,6 +31,7 @@ You will take a baseline installation of a Linux distribution on a virtual machi
 - Uncomplicated Firewall(UFW) was set to only allow incoming SSH(2200), HTTP(80) and NTP(123) connections.
 - Apache2 server was setup to serve a WSGI application.
 - Postgresql was setup with a 'catalog' user with limited permissions
+- Git was installed and previous Udacity project cloned.
 
 ## Additional 3rd party resources used:
 - [Using Flask with WSGI](http://flask.pocoo.org/docs/0.11/deploying/mod_wsgi/)
